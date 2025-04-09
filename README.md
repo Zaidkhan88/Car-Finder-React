@@ -3,7 +3,6 @@ Node.js and npm installed
 
 
 
-📦 Install Dependencies
 1. Clone the Repo
 
    git clone https://github.com/Zaidkhan88/Car-Finder-React.git
